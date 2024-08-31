@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/CLionProjects/lab3_retry/complex.h
+
+C:/Users/1/CLionProjects/lab3_retry/dynamic-array.h
+iostream
+-
+
+C:/Users/1/CLionProjects/lab3_retry/square-matrix.h
+iostream
+-
+cmath
+-
+string.h
+C:/Users/1/CLionProjects/lab3_retry/string.h
+dynamic-array.h
+C:/Users/1/CLionProjects/lab3_retry/dynamic-array.h
+
+C:/Users/1/CLionProjects/lab3_retry/test-square-matrix.cpp
+test-square-matrix.h
+C:/Users/1/CLionProjects/lab3_retry/test-square-matrix.h
+assert.h
+C:/Users/1/CLionProjects/lab3_retry/assert.h
+square-matrix.h
+C:/Users/1/CLionProjects/lab3_retry/square-matrix.h
+complex.h
+C:/Users/1/CLionProjects/lab3_retry/complex.h
+
+C:/Users/1/CLionProjects/lab3_retry/test-square-matrix.h
+
